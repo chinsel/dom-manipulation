@@ -1,6 +1,7 @@
 /*
 Description: Reusable pollElement function to wait until the element is present before performing the callback function.
 Technologies: JavaScript 
+Author: Chester Militante 
 */
 // selector is an element(s) to be evaluated. pollTime and pollTimeout are in milliseconds, and not required.
 

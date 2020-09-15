@@ -1,6 +1,7 @@
 /*
 Description: Loading jQuery after page load. This template is useful for coding a/b testing variants with jQuery library.
 Technologies: JavaScript and jQuery
+Author: Chester Militante 
 */
 // We wrap the entire thing in an IIFE to ensure we don't leak any variables
 (function() {

@@ -1,6 +1,7 @@
 /*
 Description: Added the expanded navigation variant for a/b testing. This is solely for Ticketmaster.com on desktop devices.
 Technologies: ES6 Pure JavaScript, CSS, JS DOM Manipulation by appending additional navigation links and fetching dynamic data from GraphQL
+Author: Chester Militante 
 To test, go to https://www.ticketmaster.com and then open console and paste the entire code below.
 */
 

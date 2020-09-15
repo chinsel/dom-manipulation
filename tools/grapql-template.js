@@ -2,6 +2,7 @@
 GraphQL Queries and Fetch
 Description: Template for querying and fetching from GraphQL using plain JavaScript. This example can be used on Ticketmaster.com.
 Technologies: JavaScript and GraphQL 
+Author: Chester Militante 
 */
 (function() {
   const query = `

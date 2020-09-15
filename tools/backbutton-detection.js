@@ -1,6 +1,7 @@
 /*
 Description: Add Back/Forward Detection to trigger an action. Ideal for executing functions when a back/forward button is triggered by the user. This covers all types of devices including mobile.
 Technologies: JavaScript 
+Author: Chester Militante 
 To test, go to any website and then open console and paste the entire code below. Then click your browser back button.
 */
 
