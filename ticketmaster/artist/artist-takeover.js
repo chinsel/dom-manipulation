@@ -1,5 +1,5 @@
 /*
-Description: Page Takeover Modal for Taylor Swift on responsive SPA page for all types of devices.
+Description: Page Takeover Modal for Taylor Swift on responsive SPA page for all types of devices. Coded for maximum browser compatibility (including IE11).
 Technologies: Pure JavaScript, DOM Manipulation by appending a Taylor Swift custom modal dialog.
 Author: Chester Militante 
 To test, go to https://www.ticketmaster.com/taylor-swift-tickets/artist/1094215 and then open console and paste the entire code below.
