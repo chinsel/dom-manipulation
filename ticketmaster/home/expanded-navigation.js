@@ -1689,7 +1689,7 @@ To test:
 
   function toggleCategoryStyles(category){
     const navLeftContainer = document.querySelectorAll('.links__row')[0];
-    const categoryLinks = navLeftContainer.querySelectorAll('span a[class^="Item__StyledLink"], span button[class^="Item__StyledLink"]');
+    const categoryLinks = navLeftContainer.querySelectorAll('span a, span button');
     for (var i = 0; i < categoryLinks.length; i++){
       if(categoryLinks[i].innerText.trim() == category) {
         categoryLinks[i].classList.add("cat-active-item");
